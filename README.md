@@ -26,5 +26,5 @@ I'm a Python Developer passionate about building scalable backend systems, autom
 
 ### Let's connect!  
 - 📫 Email: kontakt@azurefx.pl
-- 🌐 LinkedIn: https://www.linkedin.com/in/konrad-śnieżek-754060212/
+- 🌐 LinkedIn: https://www.linkedin.com/in/azurefx/
 - 💻 Check out my site: https://azurefx.pl
